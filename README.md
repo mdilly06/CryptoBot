@@ -1,8 +1,6 @@
 # CryptoBot
 A cryptocurrency Discord chat bot
 
-Made for the Crypto Trader's Room: https://discord.gg/hHte4V2
-
 These are the commands this bot supports:
 
 | Command       | 2nd Parameter | Description                                                                    |
